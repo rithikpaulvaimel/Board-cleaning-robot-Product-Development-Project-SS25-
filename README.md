@@ -1,4 +1,4 @@
-# Board-Cleaning Robot-Product Development Project SS25
+# Automated Board Cleaning Device-Product Development Project SS25
 This repository documents the Product Development Project (IBE, Summer Semester 2025) conducted at Technische Hochschule Würzburg-Schweinfurt (THWS).
 
 As part of a team of five students, we designed and developed an automated board-cleaning device for whiteboards and blackboards. The project focused on product development, mechanical design, component selection, CAD modelling, prototyping, and technical validation.
@@ -645,3 +645,14 @@ This project followed a complete product development cycle, beginning with requi
 The final prototype successfully demonstrated the feasibility of the proposed automated board-cleaning device and validated the core design principles through practical testing.
 
 The project provided valuable experience in product development, CAD design, embedded systems, electronics integration, engineering calculations, prototyping, and teamwork.
+
+---
+## License
+
+Copyright (c) 2026 Rithik Paul Vaimel. All Rights Reserved.
+
+This project is provided for viewing purposes only. No permission is granted to copy, modify, or redistribute any part of this repository without explicit written consent from the author.
+
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
+
+---
